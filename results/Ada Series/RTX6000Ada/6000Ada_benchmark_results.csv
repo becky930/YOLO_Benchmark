@@ -1,0 +1,9 @@
+model_name,model_type,device,nvidia_driver,cuda_version,framework,framework_version,test_code_version,dataset,batch_size,accuracy,FPS,Power,Test Date
+yolo11m_fp16.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,1,0.5129303267395814,527.3931555348795,252.71481,2025-07-16 04:23:16
+yolo11m_fp16.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,8,N/A,907.7489479113633,268.032,2025-07-16 04:24:37
+yolo11m_fp16.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,16,N/A,823.1394038283402,270.5,2025-07-16 04:25:07
+yolo11m_fp16.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,64,N/A,712.2501860077821,266.754,2025-07-16 04:25:39
+yolo11s_fp16_rtx4070.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,1,0.46566335768443745,545.9500316268503,171.548,2025-07-16 04:30:47
+yolo11s_fp16_rtx4070.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,8,N/A,1506.8907118475959,252.962,2025-07-16 04:32:33
+yolo11s_fp16_rtx4070.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,16,N/A,1525.7519828617262,256.609,2025-07-16 04:33:03
+yolo11s_fp16_rtx4070.trt,yolov8n,b'NVIDIA RTX 6000 Ada Generation',b'570.133.20',12080,TRT,10.6.0,1.1.0,coco,64,N/A,1425.8514883794537,232.603,2025-07-16 04:33:34
